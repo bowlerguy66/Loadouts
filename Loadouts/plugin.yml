@@ -1,0 +1,9 @@
+name: Loadouts
+main: me.bowlerguy66.loadouts.Loadouts
+version: 1.0
+api-version: 1.13
+softdepend: [ArmorSets]
+commands:
+  loadout:
+    aliases: ld
+  setloadoutloc:
